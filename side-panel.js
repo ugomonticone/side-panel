@@ -1,4 +1,5 @@
-﻿var SidePanel = (function () {
+// side-panel js file
+var SidePanel = (function () {
   var bgcolor, side, size, opacity, tag, aiuto, trigger;
   var myConstructor = function SlidePanel(arg) {
     if (false === (this instanceof SlidePanel)) {
